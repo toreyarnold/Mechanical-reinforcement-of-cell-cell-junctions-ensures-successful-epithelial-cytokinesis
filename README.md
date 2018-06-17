@@ -1,1 +1,1 @@
-# Supp-Anillin-regulates-epithelial-cell-mechanics-by-structuring-the-medial-apical-actomyosin-network
+# Mechanical-reinforcement-of-cell-cell-junctions-ensures-successful-epithelial-cytokinesis
